@@ -73,9 +73,12 @@ There are three different phases of React component’s lifecycle:
 
 ---
 ---
+
 <center>🤘🏼🤘🏼🤘🏼🤘🏼🤘🏼🤘🏼🤘🏼🤘🏼🤘🏼🤘🏼</center>
+
 ---
 ---
+
 # Interview Challenges for React Developers
 
 ### A) Add and Delete Items From the List 
