@@ -85,3 +85,23 @@ In this challenge, the developer has to create an input field with a button.
 When the button is clicked, the text in the input field should be added below in a list. Moreover, whenever any list item is clicked, it should be removed from the list. 
 
 The motive of this challenge is to check how good the developer is with forms, state, and lists. 
+
+### B) Displaying Data Coming From an API
+In this coding challenge, you will be provided with an API that will return some data, maybe, an array of objects. You have to display the data in the UI.
+
+The main motive here is to check how and where the API is called by the developer. In React, there are two ways to call APIs.
+
+- Axios
+- fetch API
+
+### C) Create a Higher-Order Component to reuse component logic
+In this coding challenge, you might be asked to create three different components that have similar component logic. So you have to create a Higher-Order Component that will have the component logic and it will be reused by the other three components. 
+
+For this challenge, you have three components, each containing a button that increments the value in the state by a specific number. Suppose, three components are:
+
+- “ComponentA” where the button increments the value by two.
+- “ComponentB” where the button increments the value by twenty.
+- “ComponentC” where the button increments the value by two hundred.
+
+### D) Implementing and using Redux 
+In this coding challenge, the interviewer wants to check how you implement and use Redux. So, you might be provided with a basic React application with two components - one that will contain the buttons to increment and decrement the global state and another to display the value.
